@@ -1,0 +1,8 @@
+{
+  "name": "Weather Overlay",
+  "source": "https://github.com/Knutnoh/weather_overlay",
+  "content": "integration",
+  "homeassistant": "2021.12.0",
+  "filename": "weather_overlay",
+  "issue_tracker": "https://github.com/Knutnoh/weather_overlay/issues"
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "weather_overlay",
+  "name": "Weather Overlay",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Knutnoh/weather_overlay",
+  "requirements": [],
+  "codeowners": [
+    "@Knutnoh"
+  ],
+  "iot_class": "local_push"
+}
